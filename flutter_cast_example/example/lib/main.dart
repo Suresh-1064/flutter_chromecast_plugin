@@ -52,7 +52,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Plugin'),
+          title: const Text('Suresh first commit'),
         ),
         body: Center(
           child: Text('Running on: $_platformVersion\n'),
